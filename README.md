@@ -1,4 +1,4 @@
-# git-workflow-challenge2028Git Workflow Challenge
+# git-workflow-challenge2028
 
 Objective
 
@@ -13,7 +13,7 @@ Skills Practiced
 
 Student Details
 
-- Student Name: Your Name
+- Student Name: Theertha Vijayakumar
 - Interest Group: Web Development
 - Task: Git Workflow — Branch & Collaborate
 - MuLearn ID: theerthavijayakumar@mulearn
